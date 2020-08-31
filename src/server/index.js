@@ -1,2 +1,2 @@
-import serviceFactory from './service-name.js';
-export default serviceFactory;
+import pluginFactory from './plugin-delay.js';
+export default pluginFactory;
